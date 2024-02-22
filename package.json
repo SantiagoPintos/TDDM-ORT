@@ -1,0 +1,24 @@
+{
+  "name": "tddm",
+  "version": "1.0.0",
+  "description": "Android app - Taller desarrollo dispositivos moviles ORT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "capacitor",
+    "tddm",
+    "ort"
+  ],
+  "author": "Santiago Pintos",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^5.7.0",
+    "@capacitor/core": "^5.7.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^5.7.0"
+  }
+}
